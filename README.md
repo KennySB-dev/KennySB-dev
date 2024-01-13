@@ -1,5 +1,5 @@
 <a href="https://kenny.is-a.dev/">
-  <img align="center" src="https://imgur.com/a/k2wB9jt" alt="Kenny Bugeja GitHub Banner"/>
+  <img align="center" src="https://i.imgur.com/6RwiIfF.png" alt="Kenny Bugeja GitHub Banner"/>
 </a>
 
 # Hey, I'm Kenny!
