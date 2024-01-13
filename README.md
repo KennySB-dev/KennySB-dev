@@ -15,12 +15,6 @@ I am a **self thought front-end developer** who noticed the increase in **web ap
 
 ---
 
-## Hobbies
-
-![Hobbies](https://i.imgur.com/1vCKurS.jpg?1)
-
----
-
 ## My Current Tech Stack
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
