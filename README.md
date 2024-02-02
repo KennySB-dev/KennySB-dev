@@ -4,7 +4,7 @@
 
 # Hey, I'm Kenny!
 
-I am a **self thought front-end developer** who noticed the increase in **web apps**, for any **website** or commercial **application**, a `Frontend developer` is necessary. 👨‍💻
+I am a **self taught front-end developer** who noticed the increase in **web apps**, for any **website** or commercial **application**, a `Frontend developer` is necessary. 👨‍💻
 
 👉 I'm currently aiming to **create** things which **solve a lot of issues** that I see, as a consumer.
 ---
