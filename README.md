@@ -6,13 +6,6 @@
 
 I am a **self taught front-end developer** who noticed the increase in **web apps**, for any **website** or commercial **application**, a `Frontend developer` is necessary. 👨‍💻
 
-👉 I'm currently aiming to **create** things which **solve a lot of issues** that I see, as a consumer.
----
-
-## Main Strengh
-
-📈 **Constant learning**, staying ahead, giving simple solutions to complex problems. 🦾
-
 ---
 
 ## My Current Tech Stack
