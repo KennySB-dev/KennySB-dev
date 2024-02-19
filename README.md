@@ -52,7 +52,12 @@ I am a **self taught front-end developer** who noticed the increase in **web app
 
 <br />
 
-![Ask-me-badge](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+<a href="mailto:kenny@kenny.is-a.dev">
+    <img
+        src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
+        alt="Direct link to Email"
+    >
+</a>
 
 ## 🤗 Let's change the world together
 
